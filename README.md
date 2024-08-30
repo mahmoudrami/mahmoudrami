@@ -1,5 +1,9 @@
 ## Hi there 👋
-<h1 align=center>mahmoud rami</h1>
+<h1 align="center">mahmoud rami</h1>
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100009434927219"></a>
+  <a href="https://www.instagram.com/mah_moud_rami/"><img src="https://img.shiedlds.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"></a>
+</p>
 <!--
 **mahmoudrami/mahmoudrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
