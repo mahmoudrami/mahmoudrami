@@ -2,7 +2,7 @@
 <h1 align="center">mahmoud rami</h1>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100009434927219"><img width="200px" src="https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg"></a>
-  <a href="https://www.instagram.com/mah_moud_rami/"><img width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-SfZ53WYhKlMVnVq_UzJAcl6j3n0zouSiLvAmRyolWbJXfleKlt8ipFXkiKEthCANrg&usqp=CAU"></a>
+  <a href="https://www.instagram.com/mah_moud_rami/"><img width="200px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-SfZ53WYhKlMVnVq_UzJAcl6j3n0zouSiLvAmRyolWbJXfleKlt8ipFXkiKEthCANrg&usqp=CAU"></a>
 </p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJm2A6kWl8GjIQ26qXuXBcAdzrW1tSp3awqQ&s" align="right" width="25%">
 <p>Backend developer</p>
