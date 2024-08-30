@@ -1,8 +1,8 @@
 ## Hi there 👋
 <h1 align="center">mahmoud rami</h1>
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100009434927219"></a>
-  <a href="https://www.instagram.com/mah_moud_rami/"><img src="https://img.shiedlds.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/profile.php?id=100009434927219"><img src="https://e7.pngegg.com/pngimages/734/621/png-clipart-computer-icons-social-media-facebook-like-button-social-network-social-media-blue-logo.png"></a>
+  <a href="https://www.instagram.com/mah_moud_rami/"><img src="[https://img.shiedlds.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcnRvlf7RLEUGIgKR_sr3y7H-CVoVB21I3MA&s)"></a>
 </p>
 <!--
 **mahmoudrami/mahmoudrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
